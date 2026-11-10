@@ -70,49 +70,49 @@ The global browser extension market is estimated at approximately **$2.5 billion
 ### ⭐ Ranked Open-Source Extensions
 *Sorted in descending order by GitHub stargazers count.*
 
-1. **[uBlock Origin](https://github.com/gorhill/uBlock)** [![GitHub stars](https://img.shields.io/github/stars/gorhill/uBlock?style=social&color=white)](https://github.com/gorhill/uBlock/stargazers)  
+1. **[uBlock Origin](https://github.com/gorhill/uBlock)** [![GitHub_Stars](https://img.shields.io/github/stars/gorhill/uBlock?style=social&color=white)](https://github.com/gorhill/uBlock/stargazers)  
    🛡️ Highly efficient, wide-spectrum content blocker and privacy guard for Chromium and Firefox with minimal memory and CPU footprint.
 
-2. **[Trilium Notes Web Clipper](https://github.com/TriliumNext/Trilium)** [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)  
+2. **[Trilium Notes Web Clipper](https://github.com/TriliumNext/Trilium)** [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)  
    🌲 Hierarchical personal knowledge base and note-taking application with a built-in browser clipper for capturing whole pages, text clips, and screenshots.
 
-3. **[Cap](https://github.com/CapSoftware/Cap)** [![GitHub stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=social&color=white)](https://github.com/CapSoftware/Cap/stargazers)  
+3. **[Cap](https://github.com/CapSoftware/Cap)** [![GitHub_Stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=social&color=white)](https://github.com/CapSoftware/Cap/stargazers)  
    🎥 Modern open-source Loom alternative built with Rust and Tauri; offers instant screen recording, browser recording, and shareable links.
 
-4. **[SingleFile](https://github.com/gildas-lormeau/SingleFile)** [![GitHub stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile?style=social&color=white)](https://github.com/gildas-lormeau/SingleFile/stargazers)  
+4. **[SingleFile](https://github.com/gildas-lormeau/SingleFile)** [![GitHub_Stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile?style=social&color=white)](https://github.com/gildas-lormeau/SingleFile/stargazers)  
    💾 Web extension for saving a faithful, complete web page into a standalone, offline HTML file with embedded styling, images, and annotations.
 
-5. **[Dark Reader](https://github.com/darkreader/darkreader)** [![GitHub stars](https://img.shields.io/github/stars/darkreader/darkreader?style=social&color=white)](https://github.com/darkreader/darkreader/stargazers)  
+5. **[Dark Reader](https://github.com/darkreader/darkreader)** [![GitHub_Stars](https://img.shields.io/github/stars/darkreader/darkreader?style=social&color=white)](https://github.com/darkreader/darkreader/stargazers)  
    🌙 Browser extension providing eye-care dark theme inversion for any website on the fly, with customizable brightness, contrast, and font styling.
 
-6. **[LanguageTool](https://github.com/languagetool-org/languagetool)** [![GitHub stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=social&color=white)](https://github.com/languagetool-org/languagetool/stargazers)  
+6. **[LanguageTool](https://github.com/languagetool-org/languagetool)** [![GitHub_Stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=social&color=white)](https://github.com/languagetool-org/languagetool/stargazers)  
    ✍️ Open-source multilingual style and grammar checker supporting 25+ languages; trusted privacy-focused alternative to Grammarly for Chrome and Firefox.
 
-7. **[Notesnook Web Clipper](https://github.com/streetwriters/notesnook)** [![GitHub stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers)  
+7. **[Notesnook Web Clipper](https://github.com/streetwriters/notesnook)** [![GitHub_Stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=social&color=white)](https://github.com/streetwriters/notesnook/stargazers)  
    🔐 Zero-knowledge, fully encrypted private note-taking app with a dedicated web clipper extension utilizing XChaCha20-Poly1305 encryption.
 
-8. **[Bitwarden Browser Extension](https://github.com/bitwarden/clients)** [![GitHub stars](https://img.shields.io/github/stars/bitwarden/clients?style=social&color=white)](https://github.com/bitwarden/clients/stargazers)  
+8. **[Bitwarden Browser Extension](https://github.com/bitwarden/clients)** [![GitHub_Stars](https://img.shields.io/github/stars/bitwarden/clients?style=social&color=white)](https://github.com/bitwarden/clients/stargazers)  
    🔑 Industry-standard open-source password vault extension featuring secure auto-fill, two-factor authentication, cross-device sync, and passkey support.
 
-9. **[wallabag](https://github.com/wallabag/wallabag)** [![GitHub stars](https://img.shields.io/github/stars/wallabag/wallabag?style=social&color=white)](https://github.com/wallabag/wallabag/stargazers)  
+9. **[wallabag](https://github.com/wallabag/wallabag)** [![GitHub_Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=social&color=white)](https://github.com/wallabag/wallabag/stargazers)  
    📖 Self-hostable application and browser extension for saving web articles to read later, featuring offline viewing, e-reader export (EPUB/MOBI), and full content extraction.
 
-10. **[Violentmonkey](https://github.com/violentmonkey/violentmonkey)** [![GitHub stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey?style=social&color=white)](https://github.com/violentmonkey/violentmonkey/stargazers)  
+10. **[Violentmonkey](https://github.com/violentmonkey/violentmonkey)** [![GitHub_Stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey?style=social&color=white)](https://github.com/violentmonkey/violentmonkey/stargazers)  
     🐵 Lightweight, open-source userscript manager for browsers supporting Greasemonkey and Tampermonkey scripts with synchronisation capabilities.
 
-11. **[KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser)** [![GitHub stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc-browser?style=social&color=white)](https://github.com/keepassxreboot/keepassxc-browser/stargazers)  
+11. **[KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser)** [![GitHub_Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc-browser?style=social&color=white)](https://github.com/keepassxreboot/keepassxc-browser/stargazers)  
     🔒 Official browser integration extension for the KeePassXC password manager, providing local-first credential and TOTP autofill without cloud exposure.
 
-12. **[Hoppscotch Browser Extension](https://github.com/hoppscotch/hoppscotch-extension)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch-extension?style=social&color=white)](https://github.com/hoppscotch/hoppscotch-extension/stargazers)  
+12. **[Hoppscotch Browser Extension](https://github.com/hoppscotch/hoppscotch-extension)** [![GitHub_Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch-extension?style=social&color=white)](https://github.com/hoppscotch/hoppscotch-extension/stargazers)  
     🚀 Open-source API development and testing browser companion to bypass CORS restrictions for seamless API exploration and testing.
 
-13. **[SendRec](https://github.com/sendrec/sendrec)** [![GitHub stars](https://img.shields.io/github/stars/sendrec/sendrec?style=social&color=white)](https://github.com/sendrec/sendrec/stargazers)  
+13. **[SendRec](https://github.com/sendrec/sendrec)** [![GitHub_Stars](https://img.shields.io/github/stars/sendrec/sendrec?style=social&color=white)](https://github.com/sendrec/sendrec/stargazers)  
     📹 Self-hosted asynchronous video messaging platform; open-source Loom alternative with browser recording, AI transcription (local Whisper or cloud), and analytics.
 
-14. **[SleekAddons Browser Extensions](https://github.com/SleekAddons/browser-extensions)** [![GitHub stars](https://img.shields.io/github/stars/SleekAddons/browser-extensions?style=social&color=white)](https://github.com/SleekAddons/browser-extensions/stargazers)  
+14. **[SleekAddons Browser Extensions](https://github.com/SleekAddons/browser-extensions)** [![GitHub_Stars](https://img.shields.io/github/stars/SleekAddons/browser-extensions?style=social&color=white)](https://github.com/SleekAddons/browser-extensions/stargazers)  
     🧩 Modern monorepo of productivity extensions including Table Extractor, Pi-hole Manager, and Website Blocker built with WXT and React.
 
-15. **[Zecrypt Server](https://github.com/zecrypt-io/zecrypt-server)** [![GitHub stars](https://img.shields.io/github/stars/zecrypt-io/zecrypt-server?style=social&color=white)](https://github.com/zecrypt-io/zecrypt-server/stargazers)  
+15. **[Zecrypt Server](https://github.com/zecrypt-io/zecrypt-server)** [![GitHub_Stars](https://img.shields.io/github/stars/zecrypt-io/zecrypt-server?style=social&color=white)](https://github.com/zecrypt-io/zecrypt-server/stargazers)  
     🛡️ Open-source password manager and encrypted data platform positioned as a LastPass alternative, built with FastAPI and Next.js.
 
 ---
