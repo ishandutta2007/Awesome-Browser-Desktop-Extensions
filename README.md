@@ -15,42 +15,30 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global browser extension market is estimated at approximately $2.5 billion to $7.8 billion (with the broader productivity software market exceeding $80 billion to $100+ billion), fueled by rapid growth in AI-driven browser copilots and enterprise security extensions. The ecosystem is moderately fragmented across specialized verticals (such as note-clipping, screen recording, and grammar tools), while converging toward winner-take-most dynamics in core foundational infrastructure like enterprise CRM sidecars and zero-knowledge password management suites where network effects and platform lock-in dominate.
+
 ## SaaS/Hosted Platforms
 
-- **[Zoho Plug-in (Zoho CRM for Gmail)](https://chromewebstore.google.com/detail/zoho-crm-for-gmail/ojhlgnehlajjgpneocngnphjellkjgch)**  
-  Gmail extension for managing Zoho CRM leads and contacts directly from the inbox; create contacts/leads, log calls, add tasks/events, and create deals without switching tabs .
-
-- **[LastPass Extension](https://support.lastpass.com/)**  
-  Password manager extension with autofill, secure password generation, vault access, and at-risk password alerts; supports federated login via identity providers including Microsoft Entra ID, Okta, and Google Workspace [citation:2][citation:13].
-
-- **[Grammarly Extension](https://www.grammarly.com/browser/chrome)**  
-  AI writing assistant working across 500,000+ apps and sites including Gmail, Google Docs, Salesforce, and Jira; provides grammar correction, tone detection, generative AI drafts, and plagiarism detection [citation:3][citation:14].
-
-- **[Loom Extension](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb)**  
-  Screen and camera recording extension with instant cloud link sharing; supports time-stamped comments, viewer analytics, and integration with Slack and Microsoft Teams [citation:4].
-
-- **[Evernote Web Clipper](https://chromewebstore.google.com/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)**  
-  Saves web pages, articles, PDFs, and screenshots directly to Evernote; supports full-page capture, annotations, tagging, and notebook organization .
-
-- **[HubSpot Sales Extension](https://chromewebstore.google.com/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd)**  
-  Gmail CRM sidebar with email tracking, templates, meeting scheduling, and Breeze AI Copilot; connects inbox activity to HubSpot Smart CRM for pipeline management .
-
-- **[1Password Extension](https://1password.com/downloads/browser-extension)**  
-  Password manager with autofill, passkey support, 2FA code filling, and secure item sharing; syncs across Chrome, Firefox, Safari, Edge, and Brave [citation:7].
-
-- **[Notion Web Clipper](https://www.notion.com/help/web-clipper)**  
-  Saves any web page to a Notion workspace or database; auto-adds URL property, supports tagging, and works on Chrome and Safari (desktop) plus mobile share sheets [citation:8].
-
-- **[ClickUp Extension](https://clickup.com/chrome-extension)**  
-  Creates tasks from websites and emails, captures annotated screenshots, and tracks time natively; website tasks include screenshots and hyperlinks .
-
-- **[Pocket Extension](https://getpocket.com/)**  
-  Read-later extension for saving articles, videos, and web pages to a personal library; organizes content with tags and offers offline access across devices.
+| Product | Company Size (Valuation / Revenue) | Starting Paid Tier Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Grammarly Extension](https://www.grammarly.com/browser/chrome)** | ~$13B Valuation (~$700M ARR) | $12/user/month (billed annually as $144/yr) or $30/mo | **Free Forever**: Capped at 100 AI prompts/mo; includes basic grammar, spelling, and tone detection (excludes full-sentence rewrites, plagiarism checker, and advanced clarity adjustments). | AI writing assistant working across apps and sites; provides grammar correction, tone detection, and generative drafts. |
+| **[Zoho Plug-in (CRM for Gmail)](https://chromewebstore.google.com/detail/zoho-crm-for-gmail/ojhlgnehlajjgpneocngnphjellkjgch)** | ~$12B Valuation (~$1.5B Revenue) | $14/user/month (billed annually) or $20/user/month | **Free Forever**: Up to 3 users, 5,000 records total, 1 GB organization file storage; limited to 1 sales pipeline and basic modules (no mass email or custom workflow automation). 15-day free trial on paid plans. | Gmail extension for managing Zoho CRM leads and contacts directly from inbox; log calls, add tasks, and create deals. |
+| **[Notion Web Clipper](https://www.notion.com/help/web-clipper)** | ~$11B Valuation (~$600M ARR) | $10/seat/month (billed annually) or $12/seat/month (Plus Plan) | **Free Forever**: Unlimited blocks for solo users, 1,000 block lifetime limit if 2+ members collaborate, 5 MB file upload limit, 7-day page version history, and up to 10 guest invites. | Saves any web page or article directly into Notion databases with tags, metadata, and custom properties. |
+| **[HubSpot Sales Extension](https://chromewebstore.google.com/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd)** | ~$10.5B Market Cap (~$3.1B+ Revenue) | $20/seat/month (Sales Hub Starter) | **Free Forever**: Up to 2 free users/seats, 1 deal pipeline, 10 custom properties, 3 email templates/snippets per user, 1 personal meeting link, and 5 uploaded documents; includes HubSpot branding. | Gmail/Outlook CRM sidebar with email tracking, templates, meeting scheduling, and Breeze AI Copilot connecting to HubSpot Smart CRM. |
+| **[1Password Extension](https://1password.com/downloads/browser-extension)** | ~$6.8B Valuation (~$500M ARR) | $2.99/month (billed annually at $35.88/yr for Individual) | **14-Day Free Trial Only**: 14-day trial with full feature access and 1 GB encrypted document storage; requires paid subscription thereafter (no permanent free tier). | Password manager extension with autofill, passkey support, two-factor authentication autofill, and cross-browser vault syncing. |
+| **[ClickUp Extension](https://clickup.com/chrome-extension)** | ~$4.0B Valuation (~$300M ARR) | $7/user/month (billed annually) or $10/user/month (Unlimited Plan) | **Free Forever**: Unlimited tasks and members, but storage is strictly capped at 100 MB total workspace storage; limited to 100 automation runs/month and 5 Spaces. | Creates tasks from websites and emails, captures annotated screenshots, and tracks time natively inside the browser. |
+| **[LastPass Extension](https://support.lastpass.com/)** | ~$4.3B Transaction Value (~$110M+ Revenue) | $3.00/month (billed annually at $36/yr for Premium) | **Free Forever**: Restricted to a single device category only (either mobile devices or computer/desktop browsers, but not both); includes a 30-day Premium trial upon signup. | Browser extension for password vaulting, form autofill, password generation, and security auditing across browsers. |
+| **[Loom Extension](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb)** | ~$975M Acquisition Value (~$100M ARR) | $18/creator/month (Business Plan billed monthly) or $15/creator/month (billed annually) | **Free Forever (Starter)**: Capped at 25 total stored videos per creator and a strict maximum recording length of 5 minutes per video; 720p maximum resolution with Loom watermarking. | Screen and webcam recording extension offering instant shareable links, viewer engagement analytics, and auto-transcriptions. |
+| **[Pocket Extension](https://getpocket.com/)** | ~$680M Parent Mozilla Revenue (Acquired for undisclosed sum) | Discontinued (historically $4.99/month or $44.99/year) | **Discontinued**: Historically had a free plan with unlimited article saves and tagging; Mozilla officially sunset and shut down Pocket services on July 8, 2025. | Read-later extension for saving articles, videos, and web pages to a personal offline library (sunset by Mozilla). |
+| **[Evernote Web Clipper](https://chromewebstore.google.com/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)** | ~$340M Acquisition Value (~$100M+ Revenue) | $14.99/month or $99/year (Starter Plan) | **Free Forever**: Strictly limited to 50 notes, 1 notebook, 1 active device connection, and 25 MB max monthly upload quota; 7-day or 14-day trials occasionally offered for paid tiers. | Saves full web pages, simplified articles, PDFs, and screenshots with custom highlighting directly to Evernote notebooks. |
 
 ## Open-Source GitHub Projects
 
