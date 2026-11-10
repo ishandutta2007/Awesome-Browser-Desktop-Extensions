@@ -1,6 +1,6 @@
 # Awesome-Browser-Desktop-Extensions
 
-# Top Browser & Desktop Extensions Ecosystem
+## Top Browser & Desktop Extensions Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Productivity, Password Management, Content Clipping & Asynchronous Communication*  
